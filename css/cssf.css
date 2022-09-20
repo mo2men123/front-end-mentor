@@ -27,7 +27,7 @@ header p{
 
 .container-1{
     background-color: rgba(255, 255, 255, 0.185);
-    width: 300px;
+    width: 280px;
     padding: 20px 50px;
     position: relative;
     height: 220px;
@@ -62,11 +62,11 @@ header p{
 
 .container-2{
     background-color: rgba(255, 255, 255, 0.185);
-    width: 300px;
+    width: 280px;
     padding: 20px 50px;
     position: relative;
     top: -110px;
-    left: 70px;
+    left: 40px;
     margin: 20px 50px;
     height: 220px;
     box-shadow: 0 5px 15px #00000096;
@@ -93,11 +93,11 @@ header p{
 }
 .container-3{
     background-color: rgba(255, 255, 255, 0.185);
-    width: 300px;
+    width: 280px;
     padding: 20px 50px;
     position: relative;
     top: -380px;
-    right: -930px;
+    right: -840px;
     margin: 20px 50px;
     height: 220px;
     box-shadow: 0 5px 15px #00000096;
@@ -123,11 +123,11 @@ header p{
 }
 .container-4{
     background-color: rgba(255, 255, 255, 0.185);
-    width: 300px;
+    width: 280px;
     padding: 20px 50px;
     position: relative;
     top: -540px;
-    right: -500px;
+    right: -440px;
     margin: 20px 50px;
     height: 220px;
     box-shadow: 0 5px 15px #00000096;
